@@ -1,0 +1,15 @@
+current directory: /Users/ayumi.kobukata/Documents/github/ruby-helloworld/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/ayumi.kobukata/.rbenv/versions/2.6.6/bin/ruby -I /Users/ayumi.kobukata/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200521-34635-1ey3wq6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ayumi.kobukata/Documents/github/ruby-helloworld/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ayumi.kobukata/Documents/github/ruby-helloworld/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ayumi.kobukata/Documents/github/ruby-helloworld/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200521-34635-dbs1yl/bootsnap
